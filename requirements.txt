@@ -1,5 +1,5 @@
 tqdm>=4.66.5
-numpy>=1.26.4
+numpy
 
 openai-whisper==20231117
 faster-whisper~=1.0.3
